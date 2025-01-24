@@ -1,0 +1,63 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/150x50.png?text=Alexandra's+Profile+in+Dark+Mode">
+  <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/150x50.png?text=Alexandra's+Profile+in+Light+Mode">
+  <img alt="Alexandra Galbraith's GitHub Profile" src="https://via.placeholder.com/150x50.png?text=Welcome+to+Alexandra's+Profile">
+</picture>
+
+## About Me  
+
+👋 Hi there! I'm **Alexandra Galbraith**, a passionate and results-driven Digital Marketing Coordinator with a knack for leveraging data-driven insights to create impactful marketing campaigns. Over the years, I've honed my skills in **performance marketing**, **analytics**, and **campaign management**, delivering measurable success across multiple channels.
+
+My journey has led me to become proficient in tools like **Google Ads**, **Campaign Manager 360**, **Adobe Analytics**, and more. I've worked on exciting initiatives, from launching TikTok strategies to improving ROI by bringing social media management in-house. When I'm not optimizing campaigns, you can find me exploring new technologies or refining my marketing strategies to stay ahead of the curve.
+
+---
+
+## Contributions I'm Proud Of  
+
+### 🏦 **Great Southern Bank Initiatives**  
+- **Affiliate Management**: Built and maintained strong B2B relationships, negotiated favourable deals, and prioritised marketing investment with partners like Finder, Canstar, and Mozo.  
+- **Google Ads**: Certified in Google Ads and rebuilt the Credit Card account, achieving the highest issuing month for credit card value.  
+- **Analytics Expertise**: Transitioned from beginner to advanced user of Adobe Analytics, creating dashboards, monitoring trends, and presenting insights to stakeholders.  
+- **Budget Management**: Spearheaded budget tracking and optimisation, ensuring efficient allocation of resources and strategic monthly investment planning.  
+
+### 🏆 **BCU Bank Contributions**  
+- **Home Loan Rate Campaign**: Created targeted, multi-channel communication strategies that generated substantial home loan leads.  
+- **Brand Relaunch**: Collaborated with VMLY&R and Big Fish on a phased rebranding strategy, ensuring internal and external alignment.  
+- **atmx Partnership**: Crafted a comprehensive communications plan to inform members about fee-free ATMs, aligning messaging across all channels.  
+
+---
+
+## Communities & Support  
+
+📚 I'm an advocate for knowledge sharing and learning through collaboration. Whether you're a budding marketer or an experienced professional, I believe in creating spaces where everyone feels supported. Here’s how you can connect or seek guidance:  
+
+- **Digital Marketing Enthusiasts**: Join communities like [MarketingProfs](https://www.marketingprofs.com/) or [HubSpot Academy](https://academy.hubspot.com/) for resources and courses.  
+- **Analytics Learners**: Explore platforms like [Measure Slack](https://www.measureslack.com/) for analytics-related discussions and support.  
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alexandra-galbraith) for advice, collaborations, or simply to share insights.  
+
+---
+
+## Quick Facts  
+
+| Rank | Areas of Expertise      |
+|-----:|-------------------------|
+|     1| Performance Marketing   |
+|     2| Analytics & Reporting   |
+|     3| Affiliate Partnerships  |
+
+<details>
+<summary>More Skills</summary>
+
+- **Tools & Platforms**: Google Ads, Campaign Manager 360, Adobe Analytics, Microsoft 365 Suite  
+- **Campaign Management**: Social media strategy, TikTok launches, ROI improvements  
+- **Soft Skills**: Strategic decision-making, stakeholder collaboration, and innovative problem-solving  
+
+</details>  
+
+---
+
+> *"In marketing, we don't just share stories; we craft experiences."*  
+
+---
+<!-- TO DO: Add links to upcoming projects and repositories -->
